@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subzeroOG
 - 👀 I’m the owner of CRITICAL DayZ
-- 💞️ I’m looking for Designers/Developers for my DayZ server.
+- 💞️ I’m currently looking for Designers/Developers for my DayZ server.
 - 📫 How to reach me | Discord-https://discord.gg/QQySxuUj
 Or subzero#6666
 
